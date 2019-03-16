@@ -1,3 +1,8 @@
+/*
+  UVa507 - ID Codes
+  How to solve it? This is a Max 1d Range Sum. That means: Try to sum the interval as long as it is worth it (greater OR EQUAL than zero)
+*/
+
 #include <iostream>
 using namespace std;
 
